@@ -3,7 +3,19 @@
 
 <!-- Heading -->
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px"> , I'm Muhammad Adnan
-Frontend developer who's weapon of choice is React or any CMS for Millie attacks. I'm from Pakistan.
+Web Designer and Frontend Developer
+with a flair for intuitive and visuallyappealing digital experiences. As a
+frontend developer and web designer, I
+am passionate about creating stunning
+digital experiences that are both intuitive
+and visually appealing. My expertise
+includes HTML5, CSS3, JavaScript, and
+modern frontend frameworks. I am
+dedicated to delivering top-notch
+solutions that seamlessly blend creativity
+with functionality to surpass user
+expectations.
+
 
 - 🔭 I’m currently working for [Codelab](https://codelab.pk/).
 - 🌱 Ask me about Theme Customization / Theme Development.
