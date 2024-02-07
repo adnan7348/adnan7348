@@ -25,7 +25,7 @@ expectations.
 
 Thank you for checking my profile.
 
-## Connect with me:
+## Contnect with me:
 <a href="https://www.instagram.com/"><img src="https://github.com/adnanCreativeDeveloper/adnanCreativeDeveloper/assets/156885803/d741b7e9-900a-4fc9-8286-ef1a17e67a1a" width="30" alt="" /></a>
 <a href="instagram.com"><img src="https://github.com/adnanCreativeDeveloper/adnanCreativeDeveloper/assets/156885803/3fd36bc7-761c-4386-9235-7dc4a68203f0" width="30" alt="" /></a>
 <a href="https://www.linkedin.com/feed/"><img src="https://github.com/adnanCreativeDeveloper/adnanCreativeDeveloper/assets/156885803/d77317c3-e424-4724-b027-6733e626b0e6" width="30" alt="" /></a>
